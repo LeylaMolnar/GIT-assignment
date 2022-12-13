@@ -32,7 +32,7 @@ class Car {
 			System.out.println("Out of fuel");
 		}
 	}
-	
+	//prints all data about the car
 	public void printData() {
 		System.out.println("Brand: " + brand + "\tModel: " + model + "\tAmount of fuel: " + amountOfFuel);
 	}
